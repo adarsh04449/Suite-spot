@@ -1,12 +1,4 @@
-
-
-# You can run the application on your browser by clicking on this link
-
-
-
-
-
-# run these in you shell to get started
+# Run these in you shell to get started
 
 ```bash
 git clone https://github.com/vivekkoya/LikeHome-Hotel/
